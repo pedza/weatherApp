@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.2311ea2d.chunk.css",
-    "main.js": "/my-app/static/js/main.d4d65fe6.chunk.js",
-    "main.js.map": "/my-app/static/js/main.d4d65fe6.chunk.js.map",
-    "runtime-main.js": "/my-app/static/js/runtime-main.58a6d01e.js",
-    "runtime-main.js.map": "/my-app/static/js/runtime-main.58a6d01e.js.map",
-    "static/js/2.ff6d6cec.chunk.js": "/my-app/static/js/2.ff6d6cec.chunk.js",
-    "static/js/2.ff6d6cec.chunk.js.map": "/my-app/static/js/2.ff6d6cec.chunk.js.map",
-    "index.html": "/my-app/index.html",
-    "precache-manifest.9201eafb61133bcfa8e66701251d3e42.js": "/my-app/precache-manifest.9201eafb61133bcfa8e66701251d3e42.js",
-    "service-worker.js": "/my-app/service-worker.js",
-    "static/css/main.2311ea2d.chunk.css.map": "/my-app/static/css/main.2311ea2d.chunk.css.map",
-    "static/js/2.ff6d6cec.chunk.js.LICENSE.txt": "/my-app/static/js/2.ff6d6cec.chunk.js.LICENSE.txt",
-    "static/media/sunset2.jpg": "/my-app/static/media/sunset2.311ea3d6.jpg"
+    "main.css": "/weatherApp/static/css/main.2311ea2d.chunk.css",
+    "main.js": "/weatherApp/static/js/main.d4d65fe6.chunk.js",
+    "main.js.map": "/weatherApp/static/js/main.d4d65fe6.chunk.js.map",
+    "runtime-main.js": "/weatherApp/static/js/runtime-main.bcf418c4.js",
+    "runtime-main.js.map": "/weatherApp/static/js/runtime-main.bcf418c4.js.map",
+    "static/js/2.ff6d6cec.chunk.js": "/weatherApp/static/js/2.ff6d6cec.chunk.js",
+    "static/js/2.ff6d6cec.chunk.js.map": "/weatherApp/static/js/2.ff6d6cec.chunk.js.map",
+    "index.html": "/weatherApp/index.html",
+    "precache-manifest.97b84eb2eea4866f2bb2aae043912985.js": "/weatherApp/precache-manifest.97b84eb2eea4866f2bb2aae043912985.js",
+    "service-worker.js": "/weatherApp/service-worker.js",
+    "static/css/main.2311ea2d.chunk.css.map": "/weatherApp/static/css/main.2311ea2d.chunk.css.map",
+    "static/js/2.ff6d6cec.chunk.js.LICENSE.txt": "/weatherApp/static/js/2.ff6d6cec.chunk.js.LICENSE.txt",
+    "static/media/sunset2.jpg": "/weatherApp/static/media/sunset2.311ea3d6.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.58a6d01e.js",
+    "static/js/runtime-main.bcf418c4.js",
     "static/js/2.ff6d6cec.chunk.js",
     "static/css/main.2311ea2d.chunk.css",
     "static/js/main.d4d65fe6.chunk.js"
